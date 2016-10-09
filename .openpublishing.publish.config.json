@@ -39,13 +39,13 @@
     {
       "path_to_root": "_themes.VS.UHF",
       "url": "https://github.com/Microsoft/templates.vs.com.vscomuhf",
-      "branch": "master",
+      "branch": "develop",
       "branch_mapping": {}
     },
     {
       "path_to_root": "_themes.MSDN.PartnerCenter",
       "url": "https://github.com/Microsoft/templates.msdn.partnercenter",
-      "branch": "master",
+      "branch": "develop",
       "branch_mapping": {}
     }
   ]
