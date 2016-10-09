@@ -16,6 +16,20 @@
         "RestApi": "Content"
       },
       "template_folder": "_themes.VS.UHF"
+    },
+    {
+      "docset_name": "sdfsdsdfsdfsdf",
+      "build_source_folder": "sdfsdsdfsdfsdf",
+      "build_output_subfolder": "sdfsdsdfsdfsdf",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "template_folder": "_themes.MSDN.PartnerCenter"
     }
   ],
   "notification_subscribers": [],
@@ -23,15 +37,15 @@
   "skip_source_output_uploading": false,
   "dependent_repositories": [
     {
-      "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft",
+      "path_to_root": "_themes.VS.UHF",
+      "url": "https://github.com/Microsoft/templates.vs.com.vscomuhf",
       "branch": "master",
       "branch_mapping": {}
     },
     {
-      "path_to_root": "_themes.VS.UHF",
-      "url": "https://github.com/Microsoft/templates.vs.com.vscomuhf",
-      "branch": "develop",
+      "path_to_root": "_themes.MSDN.PartnerCenter",
+      "url": "https://github.com/Microsoft/templates.msdn.partnercenter",
+      "branch": "master",
       "branch_mapping": {}
     }
   ]
