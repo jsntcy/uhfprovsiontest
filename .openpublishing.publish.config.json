@@ -23,6 +23,12 @@
   "skip_source_output_uploading": false,
   "dependent_repositories": [
     {
+      "path_to_root": "_themes",
+      "url": "https://github.com/Microsoft/templates.docs.msft",
+      "branch": "master",
+      "branch_mapping": {}
+    },
+    {
       "path_to_root": "_themes.VS.UHF",
       "url": "https://github.com/Microsoft/templates.vs.com.vscomuhf",
       "branch": "master",
