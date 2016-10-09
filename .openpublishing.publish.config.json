@@ -30,6 +30,20 @@
         "RestApi": "Content"
       },
       "template_folder": "_themes.MSDN.PartnerCenter"
+    },
+    {
+      "docset_name": "uieteerwtrw",
+      "build_source_folder": "uieteerwtrw",
+      "build_output_subfolder": "uieteerwtrw",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "template_folder": "_themes.MSDN.PartnerCenter"
     }
   ],
   "notification_subscribers": [],
@@ -39,13 +53,13 @@
     {
       "path_to_root": "_themes.VS.UHF",
       "url": "https://github.com/Microsoft/templates.vs.com.vscomuhf",
-      "branch": "develop",
+      "branch": "master",
       "branch_mapping": {}
     },
     {
       "path_to_root": "_themes.MSDN.PartnerCenter",
       "url": "https://github.com/Microsoft/templates.msdn.partnercenter",
-      "branch": "develop",
+      "branch": "master",
       "branch_mapping": {}
     }
   ]
