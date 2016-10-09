@@ -30,6 +30,20 @@
         "RestApi": "Content"
       },
       "template_folder": "_themes.MSDN.PartnerCenter"
+    },
+    {
+      "docset_name": "uieteerwtrw",
+      "build_source_folder": "uieteerwtrw",
+      "build_output_subfolder": "uieteerwtrw",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "template_folder": "_themes.MSDN.PartnerCenter"
     }
   ],
   "notification_subscribers": [],
